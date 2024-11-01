@@ -1,6 +1,7 @@
 ## Aimmy-KMBox-WSServer
 
 This application is a websocket server listening for commands from [Aimmy-KMBox](https://github.com/Yoss101/Aimmy-KMBox). It then translate these commands into serial commands to the kmbox/arduino.
+
 Required hardware (only one is needed):
 - Kmbox B
 - Kmbox B+
