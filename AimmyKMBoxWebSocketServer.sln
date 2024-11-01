@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AimmyKMBoxWebSocketServer", "AimmyKMBoxWebSocketServer\AimmyKMBoxWebSocketServer.csproj", "{B3F93C04-4509-4082-8444-B59DD340CCA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F93C04-4509-4082-8444-B59DD340CCA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F93C04-4509-4082-8444-B59DD340CCA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F93C04-4509-4082-8444-B59DD340CCA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F93C04-4509-4082-8444-B59DD340CCA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B286963D-D2E2-4010-A159-8C529FE5B19A}
+	EndGlobalSection
+EndGlobal
